@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: p440davis/VuePress-with-Netlify-CMS
+  repo: pbredenberg/netlify-vuepress
 media_folder: "docs/.vuepress/public/media"
 public_folder: "/media"
 publish_mode: editorial_workflow
